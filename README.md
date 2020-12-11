@@ -1,4 +1,7 @@
 ### Hi there, I'm Aditya 👋 - Flutter Weather App UI
+
+---
+[<img align="left" alt="App Preview" width="1080px" src="https://raw.githubusercontent.com/codestronaut/flutter_ui_challenge_weather_app/main/assets/weather_app.jpg" />]
 ---
 
 ## Package used:
