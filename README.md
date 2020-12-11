@@ -20,3 +20,5 @@
 [vscode]: https://code.visualstudio.com
 [dart]: https://dart.dev
 [flutter]: https://flutter.dev
+
+Thank you! Please leave the start to to this repo if you like it 😊
